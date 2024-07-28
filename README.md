@@ -11,3 +11,5 @@ go run ./main.go
 Enter path of the folder you want to search
 
 Specify a depth.
+
+Note: If you run this in vscode you'll want to use my launch.json so you can handle input in the terminal.
